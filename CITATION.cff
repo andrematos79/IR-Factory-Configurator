@@ -14,4 +14,3 @@ doi: 10.5281/zenodo.23270719
 url: "https://github.com/andrematos79/IR-Factory-Configurator"
 repository-code: "https://github.com/andrematos79/IR-Factory-Configurator"
 abstract: "Public technical documentation of the IR Factory Configurator, an ESP32-based industrial infrared test automation and configuration platform."
-  
