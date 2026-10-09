@@ -204,11 +204,7 @@ After the Zenodo release, replace this temporary citation with the official DOI-
 
 ## DOI / Zenodo
 
-A Zenodo archival release and DOI are planned for this project.
-
-**DOI:** Pending — will be inserted after the Zenodo archive is created.
-
-After publication, the DOI badge, DOI URL, and citation metadata in this repository should be updated with the permanent Zenodo identifier.
+**DOI:** https://doi.org/10.5281/zenodo.23270719
 
 ## License and Intellectual Property Notice
 
