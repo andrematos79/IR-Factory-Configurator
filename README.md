@@ -8,7 +8,7 @@ Industrial engineering software for configuring, managing, validating, and deplo
 ![C++](https://img.shields.io/badge/C++-ESP32-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-embedded-orange)
 ![IR](https://img.shields.io/badge/Infrared-Multi--Protocol-red)
-![DOI](https://img.shields.io/badge/DOI-Zenodo%20pending-lightgrey)
+[![DOI](https://zenodo.org/badge/1412421554.svg)](https://doi.org/10.5281/zenodo.23270718)
 
 ## System Preview
 
