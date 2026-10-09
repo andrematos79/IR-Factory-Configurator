@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software in research or technical work, please cite this release."
+type: software
+title: "IR Factory Configurator — Recipe-Based Infrared Test Automation Platform for TV Manufacturing"
+version: "0.8.0-alpha.1"
+authors:
+  - given-names: "André Gama de"
+    family-names: "Matos"
+  - given-names: "André Logan Almeida de"
+    family-names: "Matos"
+abstract: >-
+  Technical showcase of an ESP32-based industrial infrared test configuration platform
+  supporting recipes, USB/Serial and Wi-Fi communication, multi-protocol IR,
+  IR Learning, device management and production-oriented workflows.
+keywords:
+  - infrared
+  - ESP32
+  - industrial test automation
+  - embedded systems
+  - manufacturing engineering
+# Add the repository URL after creation. Add the Zenodo DOI after archival publication.
