@@ -195,12 +195,9 @@ Co-author
 
 ## Citation
 
-If you reference the IR Factory Configurator in technical, academic, or research work, please use the following citation format until the Zenodo DOI is issued:
+If you reference the IR Factory Configurator in technical, academic, or research work, please cite:
 
-**Matos, André Gama de; Matos, André Logan Almeida de. (2026).  
-IR Factory Configurator (v0.8.0). Software.**
-
-After the Zenodo release, replace this temporary citation with the official DOI-based citation.
+**Matos, André Gama de; Matos, André Logan Almeida de. (2026). IR Factory Configurator (v0.8.0-alpha.1) [Software documentation]. Zenodo. https://doi.org/10.5281/zenodo.23270719**
 
 ## DOI / Zenodo
 
